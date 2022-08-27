@@ -1,0 +1,1 @@
+int convert(long long n);
